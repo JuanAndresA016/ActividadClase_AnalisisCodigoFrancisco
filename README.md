@@ -12,3 +12,6 @@
   -Por ejemplo el diseño era muy poco intuitivo
   -También como tal el lo colores estaban predefinidos por lo que si se utilizaba el tema oscuro, los colores de la interfaz no cambiaban
   -Mucho espacio se desperdiciaba en las graficas lo cual era información no tan relevante o que se podría distribuir mejor en la interfaz
+
+
+![Diagrama](images/DiagramasCorrec.jpg)
