@@ -14,4 +14,4 @@
   -Mucho espacio se desperdiciaba en las graficas lo cual era información no tan relevante o que se podría distribuir mejor en la interfaz
 
 
-![Diagrama](images/DiagramasCorrec.jpg)
+![Diagrama](images/DiagramasCorrecion.jpg)
