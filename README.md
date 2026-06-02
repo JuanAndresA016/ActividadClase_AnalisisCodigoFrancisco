@@ -1,4 +1,4 @@
-Los errores que hemos encontrado en el backend son:
+**Los errores que hemos encontrado en el backend son:**
 
 - El archivo MetricResponseDTO.java estaba duplicado en la carpeta repository.
 - En los endpoints de metrics/ se devolvía valores aunque el valor dado al endpoint no esté enlistado en el código, mostrando una mala validación de entrada.
@@ -7,7 +7,7 @@ Los errores que hemos encontrado en el backend son:
 - MetricResquestDTO.java tiene un seteo muy pobre, hacen falta getters, setters, etc.
 
 
-  También el codigo tenía varias areas de mejora
+**También el codigo tenía varias areas de mejora:**
 
   -Por ejemplo el diseño era muy poco intuitivo
   -También como tal el lo colores estaban predefinidos por lo que si se utilizaba el tema oscuro, los colores de la interfaz no cambiaban
